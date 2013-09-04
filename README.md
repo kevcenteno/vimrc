@@ -54,6 +54,8 @@ Now check if everything is all good:
   
   tput colors
 
+SOURCE: @josh_earl [tumblr](http://whiletruecode.tumblr.com/post/13358288098/enabling-256-color-mode-in-ubuntus-bash-terminal)
+
 
 ## How to update to latest version?
 
