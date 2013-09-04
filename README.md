@@ -50,6 +50,14 @@ Save and close the file.  Then force Bash to reload the config file:
 
   	source ~/.bashrc
 
+Now make sure it loads the .bashrc on login
+
+	vim ~/.bash_profile
+
+and add the following line:
+	
+	source "$HOME/.bashrc"
+
 Now check if everything is all good:
   
   	tput colors
